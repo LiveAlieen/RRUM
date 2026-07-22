@@ -1,2 +1,5 @@
 # RRUM 一种以rnn为核心，transformer为记忆的下一代人工智能模型
-* ./RRUM_Whitepaper_v1.0.md  第一代版本
+## Abstract
+
+Current large language models (LLMs) based on the Transformer architecture excel at pattern matching and knowledge retrieval but fundamentally lack the capacity for genuine cognitive leaps—what humans call "inspiration." We propose the **Recurrent-Retrieval Unified Model (RRUM)**, a single unified architecture that combines a recurrent transformation core with a Transformer-based memory substrate. In RRUM, the recurrent component acts as a pure transformation engine responsible for dynamic exploration and directional shifts ("curiosity"), while the Transformer encodes stable personality, knowledge bias, and cognitive style ("character"). An external retriever provides on-demand factual supplementation without requiring real-time model updates. This separation of concerns—**transformation vs. memory vs. retrieval**—enables an AI system that is simultaneously predictable in identity yet capable of genuine creative jumps. We present the architectural blueprint, mathematical formalization, training methodology, and a roadmap for implementation.
+
